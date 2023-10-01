@@ -1,0 +1,1 @@
+from db_timetable_api import timetable
